@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12C3A659-6DFD-4974-BEE4-8A22DA6EBD68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CopyMutableCopyDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABB1FD16-7CFA-42D8-8524-89E9783773FB</key>
+		<string>https://github.com/pigpigdaddy/CopyMutableCopyDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CopyMutableCopyDemo/CopyMutableCopyDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABB1FD16-7CFA-42D8-8524-89E9783773FB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pigpigdaddy/CopyMutableCopyDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABB1FD16-7CFA-42D8-8524-89E9783773FB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABB1FD16-7CFA-42D8-8524-89E9783773FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CopyMutableCopyDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
